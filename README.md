@@ -1,4 +1,5 @@
-Text generator that uses lorem ipsum style syntax
+### Description
+Text generator that uses lorem ipsum style syntax.
 
 ### Author
 Swainson Holness
