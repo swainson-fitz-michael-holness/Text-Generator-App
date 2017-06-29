@@ -1,4 +1,4 @@
-### Description
+### Text-Generator-App
 Text generator inspired by lorem ipsum style text with syntax.
 
 ### Author
