@@ -1,4 +1,4 @@
-### [Text-Generator-App](http://swainsonholness.me/pomodoro/)
+## Text-Generator-App
 Text generator inspired by lorem ipsum style text with syntax.
 
 ### Author
