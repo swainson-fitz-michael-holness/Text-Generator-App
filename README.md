@@ -3,7 +3,7 @@ Text generator inspired by lorem ipsum style text with syntax.
 
 ### Author
 Swainson Holness
-Website: [swainsonholness.me](http://swainsonholness.me/)
+Website: [exogenist.tech](https://exogenist.tech/)
 
 ### Contact
 1. email: swainson.holness@gmail.com 
